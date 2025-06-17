@@ -1,1 +1,1 @@
-# tic-tacktoe-using-tcp-and-udp-
+# tic-tac-toe-using-tcp-and-udp
